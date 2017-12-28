@@ -11,9 +11,6 @@ Created on Mon Dec 18 21:26:33 2017
 wind说明：
     用到的wind内部函数有:w.wsd,w.wset
 
-
-
-
 '''
 
 import pandas as pd
